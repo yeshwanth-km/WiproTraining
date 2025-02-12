@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\MultiCatDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\MultiCatDelegate.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\MultiCatDelegate.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\MultiCatDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\bin\Debug\net8.0\MultiCatDelegate.exe
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\bin\Debug\net8.0\MultiCatDelegate.deps.json
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\bin\Debug\net8.0\MultiCatDelegate.runtimeconfig.json
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\bin\Debug\net8.0\MultiCatDelegate.dll
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\bin\Debug\net8.0\MultiCatDelegate.pdb
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\MultiCatDelegate.dll
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\refint\MultiCatDelegate.dll
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\MultiCatDelegate.pdb
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\MultiCatDelegate.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WiproDay7\MultiCatDelegate\obj\Debug\net8.0\ref\MultiCatDelegate.dll
