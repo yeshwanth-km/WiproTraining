@@ -1,0 +1,7 @@
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Wiprod4-oops\bin\Debug\Wiprod4-oops.exe.config
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Wiprod4-oops\bin\Debug\Wiprod4-oops.exe
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Wiprod4-oops\bin\Debug\Wiprod4-oops.pdb
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Wiprod4-oops\obj\Debug\Wiprod4-oops.csproj.AssemblyReference.cache
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Wiprod4-oops\obj\Debug\Wiprod4-oops.csproj.CoreCompileInputs.cache
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Wiprod4-oops\obj\Debug\Wiprod4-oops.exe
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Wiprod4-oops\obj\Debug\Wiprod4-oops.pdb

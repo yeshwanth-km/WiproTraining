@@ -1,0 +1,7 @@
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Inheritance_const\obj\Debug\Inheritance_const.csproj.AssemblyReference.cache
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Inheritance_const\obj\Debug\Inheritance_const.csproj.CoreCompileInputs.cache
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Inheritance_const\bin\Debug\Inheritance_const.exe.config
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Inheritance_const\bin\Debug\Inheritance_const.exe
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Inheritance_const\bin\Debug\Inheritance_const.pdb
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Inheritance_const\obj\Debug\Inheritance_const.exe
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Inheritance_const\obj\Debug\Inheritance_const.pdb

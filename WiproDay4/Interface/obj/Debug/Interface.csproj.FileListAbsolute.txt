@@ -1,0 +1,2 @@
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
