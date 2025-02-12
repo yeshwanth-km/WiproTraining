@@ -1,0 +1,7 @@
+C:\Users\YESHWANTH\source\repos\WiproDay5\MultipleInheri\bin\Debug\MultipleInheri.exe.config
+C:\Users\YESHWANTH\source\repos\WiproDay5\MultipleInheri\bin\Debug\MultipleInheri.exe
+C:\Users\YESHWANTH\source\repos\WiproDay5\MultipleInheri\bin\Debug\MultipleInheri.pdb
+C:\Users\YESHWANTH\source\repos\WiproDay5\MultipleInheri\obj\Debug\MultipleInheri.csproj.AssemblyReference.cache
+C:\Users\YESHWANTH\source\repos\WiproDay5\MultipleInheri\obj\Debug\MultipleInheri.csproj.CoreCompileInputs.cache
+C:\Users\YESHWANTH\source\repos\WiproDay5\MultipleInheri\obj\Debug\MultipleInheri.exe
+C:\Users\YESHWANTH\source\repos\WiproDay5\MultipleInheri\obj\Debug\MultipleInheri.pdb
