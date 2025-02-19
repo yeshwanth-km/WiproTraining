@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOp", "MathOp\MathOp.csproj", "{940C3935-5DBF-4166-B8C0-91D7D2FFEBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMathOp", "TestMathOp\TestMathOp.csproj", "{73926C28-8745-4432-8CDD-6334B9724691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940C3935-5DBF-4166-B8C0-91D7D2FFEBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940C3935-5DBF-4166-B8C0-91D7D2FFEBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940C3935-5DBF-4166-B8C0-91D7D2FFEBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940C3935-5DBF-4166-B8C0-91D7D2FFEBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73926C28-8745-4432-8CDD-6334B9724691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73926C28-8745-4432-8CDD-6334B9724691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73926C28-8745-4432-8CDD-6334B9724691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73926C28-8745-4432-8CDD-6334B9724691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

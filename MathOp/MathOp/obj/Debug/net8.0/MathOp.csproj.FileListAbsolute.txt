@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\MathOp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\MathOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\MathOp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\MathOp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\MathOp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\MathOp.gentestingplatformentrypointinputcache.cache
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\MathOp.genautoregisteredextensionsinputcache.cache
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\AutoRegisteredExtensions.cs
+C:\Users\Administrator\source\repos\MathOp\MathOp\obj\Debug\net8.0\TestPlatformEntryPoint.cs

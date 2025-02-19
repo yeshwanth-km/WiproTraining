@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\MathOp\TestMathOp\obj\Debug\net8.0\TestMathOp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MathOp\TestMathOp\obj\Debug\net8.0\TestMathOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MathOp\TestMathOp\obj\Debug\net8.0\TestMathOp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MathOp\TestMathOp\obj\Debug\net8.0\TestMathOp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MathOp\TestMathOp\obj\Debug\net8.0\TestMathOp.csproj.CoreCompileInputs.cache
