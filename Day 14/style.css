@@ -1,0 +1,50 @@
+/** style.css **/
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+  }
+  
+  h1, h2 {
+    font-weight: bold;
+  }
+  
+  /* Header */
+  header {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: white;
+  }
+  
+  /* Sections */
+  section {
+    padding: 2rem 0;
+  }
+  
+  /* Projects Section */
+  .card {
+    border: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Hobbies Section */
+  #hobbies img {
+    transition: transform 0.3s;
+  }
+  
+  #hobbies img:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #0f2027;
+    color: white;
+    font-size: 0.9rem;
+  }
+  
